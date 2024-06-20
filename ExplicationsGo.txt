@@ -1,0 +1,5 @@
+Si la premiere lettre en majuscule la variable est public
+Si la premiere lettre en miniscule la variable est privee
+
+la conversion des variables : var f := "12"
+                              f = int(f)  
